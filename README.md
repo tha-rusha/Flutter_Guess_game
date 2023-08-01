@@ -1,16 +1,11 @@
-# guess_game
+# Welcome to GuessIt - The Number Guessing Game!
 
-A new Flutter project.
+🎲 Get ready for a thrilling adventure of numbers and mind-bending challenges! 🧠
 
-## Getting Started
+## About the Developer
+Hello there! I'm Tharusha Dilhra, a passionate Flutter developer and puzzle enthusiast. I believe that the beauty of technology lies in its ability to create immersive and entertaining experiences that challenge and inspire us.
 
-This project is a starting point for a Flutter application.
+With a love for brain teasers and a knack for coding, I embarked on the journey to create GuessIt, a game that will put your logical thinking to the test while keeping you hooked for more!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>How to Play</h2>
+Guess is all about finding the secret number! 🤫 You'll be given hints after each guess, guiding you to the right answer. Sharpen your intuition and number sense as you get closer to unraveling the mystery!
