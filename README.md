@@ -12,9 +12,10 @@ Guess is all about finding the secret number! 🤫 You'll be given hints after e
 
 <h2>Screenshots</h2>
 
-
+ <div class="column">
 ![Screenshot_1690865638](https://github.com/tha-rusha/Flutter_Guess_game/assets/86361836/ebe03b16-b1de-421c-8ad6-1de4b158cba7)
 ![Screenshot_1690865642](https://github.com/tha-rusha/Flutter_Guess_game/assets/86361836/bc281551-6454-492b-ad7c-0011bae1a520)![Screenshot_1690865689](https://github.com/tha-rusha/Flutter_Guess_game/assets/86361836/b390e330-820e-4cc3-8a40-1c04b94fecf2)
+ </div>
 ![Screenshot_1690865656](https://github.com/tha-rusha/Flutter_Guess_game/assets/86361836/3bd60725-8f3d-471a-b0b9-65bb505d0989)
 
 
